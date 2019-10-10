@@ -25,4 +25,4 @@ class Wallet {
 
 }
 
-const wallet = new Wallet(100);
+const wallet = new Wallet();
